@@ -1,4 +1,4 @@
-module github.com/imfing/issues-blog
+module github.com/PixelCrafter42/issueblog
 
 go 1.19
 
